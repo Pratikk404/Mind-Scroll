@@ -352,8 +352,6 @@ App ID | 1192069 |
 | **Khushi Kadkal** | [@khushicodeslabs](https://github.com/khushicodeslabs) |
 | **Mayuresh Jagadale** | [@MAYURESH90](https://github.com/MAYURESH90) |
 | **Manasvi Patil** | [@pmanasvi872-debug](https://github.com/pmanasvi872-debug) |
-
----
 ```
 Developed during **Hackverse 2.0 Hackathon (24 Hours)**.
 
