@@ -344,14 +344,17 @@ App ID | 1192069 |
 ---
 
 # 👥 Team
-
+```
 **Code-Crew**
+| Name | GitHub | Contribution |
+|-----|-----|-----|
+| **Pratik Kalambe** | [@Pratikk404](https://github.com/Pratikk404) |
+| **Khushi Kadkal** | [@khushicodeslabs](https://github.com/khushicodeslabs) |
+| **Mayuresh Jagadale** | [@MAYURESH90](https://github.com/MAYURESH90) |
+| **Manasvi Patil** | [@pmanasvi872-debug](https://github.com/pmanasvi872-debug) |
 
-• Pratik Kalambe  
-• Khushi Kadkal @khushicodeslabs
-• Mayuresh Jagadale @MAYURESH90
-• Manasvi Patil @pmanasvi872-debug
-
+---
+```
 Developed during **Hackverse 2.0 Hackathon (24 Hours)**.
 
 ---
