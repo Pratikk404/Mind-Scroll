@@ -6,6 +6,16 @@ MindScroll is a micro-learning platform designed to convert passive social media
 Built during **Hackverse 2.0 (24-Hour Hackathon)** organized by **HSNC University at Watumull Institute of Engineering & Technology**, the project demonstrates how modern UI patterns can be repurposed to improve knowledge engagement.
 
 ---
+# 👥 Team
+**Code-Crew**
+| Name | GitHub |
+|-----|-----|
+| **Pratik Kalambe** | [@Pratikk404](https://github.com/Pratikk404) |
+| **Khushi Kadkal** | [@khushicodeslabs](https://github.com/khushicodeslabs) |
+| **Mayuresh Jagadale** | [@MAYURESH90](https://github.com/MAYURESH90) |
+| **Manasvi Patil** | [@pmanasvi872-debug](https://github.com/pmanasvi872-debug) |
+
+Developed during **Hackverse 2.0 Hackathon (24 Hours)**.
 
 # 🚀 Live Demo
 
@@ -342,20 +352,6 @@ Origin | Maharashtra, India |
 App ID | 1192069 |
 
 ---
-
-# 👥 Team
-**Code-Crew**
-| Name | GitHub |
-|-----|-----|
-| **Pratik Kalambe** | [@Pratikk404](https://github.com/Pratikk404) |
-| **Khushi Kadkal** | [@khushicodeslabs](https://github.com/khushicodeslabs) |
-| **Mayuresh Jagadale** | [@MAYURESH90](https://github.com/MAYURESH90) |
-| **Manasvi Patil** | [@pmanasvi872-debug](https://github.com/pmanasvi872-debug) |
-
-Developed during **Hackverse 2.0 Hackathon (24 Hours)**.
-
----
-
 # 🏁 Hackathon Context
 
 MindScroll was created as part of **Hackverse 2.0**, a 24-hour hackathon hosted by:
