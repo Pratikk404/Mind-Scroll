@@ -345,8 +345,8 @@ App ID | 1192069 |
 
 # 👥 Team
 **Code-Crew**
-| Name | GitHub | Contribution |
-|-----|-----|-----|
+| Name | GitHub |
+|-----|-----|
 | **Pratik Kalambe** | [@Pratikk404](https://github.com/Pratikk404) |
 | **Khushi Kadkal** | [@khushicodeslabs](https://github.com/khushicodeslabs) |
 | **Mayuresh Jagadale** | [@MAYURESH90](https://github.com/MAYURESH90) |
