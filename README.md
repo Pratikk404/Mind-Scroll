@@ -107,5 +107,5 @@ MindScroll
 
 MindScroll was built within **24 hours** during Hackverse 2.0.
 
-Although the project did not win the competition, the experience provided valuable insights into **rapid prototyping, teamwork, and shipping a functional product under tight constraints .
+Although the project did not win the competition, the experience provided valuable insights into rapid prototyping, teamwork, and shipping a functional product under tight constraints .
 **MindScroll — Learn something every time you scroll.**
